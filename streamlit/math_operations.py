@@ -36,15 +36,15 @@ def subtract(x, y):
 
 def multiply(x, y):
     """
-    Multiply two numbers.
+    This function takes two numbers as input and returns their product.
     
-    Args:
-        x (int): First number.
-        y (int): Second number.
-        
+    Parameters:
+    x (int or float): The first number.
+    y (int or float): The second number.
+    
     Returns:
-        int: Product of x and y.
-        
+    int or float: The product of x and y.
+
     >>> multiply(2, 2)
     4
     >>> multiply(2, 0)
