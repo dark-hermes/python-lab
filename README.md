@@ -2,7 +2,7 @@
 
 This repository acts as a central hub for **Hermawan Sentyaki Sarjito's (J0403231111)** assignments and resources related to the Programming Basics lecture (lab) at IPB University.
 
-## Table of contents
+## Table of Contents
 - [Function](https://github.com/dark-hermes/python-lab/blob/main/function.ipynb)
     - [Knowledge Test](https://github.com/dark-hermes/python-lab/tree/main/test_your_knowledge)
 - [Loop](https://github.com/dark-hermes/python-lab/blob/main/looping.ipynb)
