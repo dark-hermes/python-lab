@@ -6,7 +6,7 @@ import math_operations as mo
 from streamlit_option_menu import option_menu
 
 with st.sidebar:
-    selected = option_menu("Gallery", ["Simple Calculator", "Object Detection"],
+    selected = option_menu("Gallery", ["Simple Calculator"],
                         default_index=0)
     selected
 
