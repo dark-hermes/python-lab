@@ -1,3 +1,6 @@
+# Hermawan Sentyaki Sarjito
+# J0403231111
+
 from flask import Flask
 
 app = Flask(__name__)
@@ -12,5 +15,4 @@ def hello_world() -> str:
     return "<p>Hello, Flask!</p>"
 
 if __name__ == '__main__':
-    import doctest
-    doctest.testmod()
+    app.run()

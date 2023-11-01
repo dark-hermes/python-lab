@@ -1,8 +1,8 @@
-# streamlit_calculator.py
+# Hermawan Sentyaki Sarjito
+# J0403231111
 
 import streamlit as st
 import math_operations as mo
-
 
 st.title("Simple Calculator")
 

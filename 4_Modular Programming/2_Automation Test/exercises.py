@@ -1,3 +1,6 @@
+# Hermawan Sentyaki Sarjito
+# J0403231111
+
 def average(num1: float, num2: float) -> float:
     """Return the average of num1 and num2.
     >>> average(10,20)

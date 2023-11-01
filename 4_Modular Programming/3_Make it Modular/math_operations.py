@@ -1,3 +1,6 @@
+# Hermawan Sentyaki Sarjito
+# J0403231111
+
 def add(x, y):
     """Add two numbers.
 
@@ -74,3 +77,7 @@ def divide(x, y):
     if y == 0:
         raise ZeroDivisionError("Division by zero is not allowed.")
     return x / y
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
